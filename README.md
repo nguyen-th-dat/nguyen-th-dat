@@ -1,5 +1,9 @@
 <h1 align="center">👋 Xin chào, mình là Nguyễn Thành Đạt</h1>
 
+<p align="center">
+  🎓 Sinh viên năm 2 ngành Công nghệ Thông tin tại Đại học Nha Trang <br/>
+</p>
+
 ---
 
 ## 📊 Thống kê GitHub
@@ -16,6 +20,7 @@
 - 📧 Gmail: `itntdse@gmail.com` 
 - 💬 Telegram: [@ntd05](https://t.me/ntd05)
 - 🌐 Facebook: [iamdat.05](https://facebook.com/iamdat.05)
+
 
 ---
 
