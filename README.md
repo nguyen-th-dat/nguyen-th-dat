@@ -1,7 +1,7 @@
 <h1 align="center">👋 Xin chào, mình là Nguyễn Thành Đạt</h1>
 
 <p align="center">
-  🎓 Sinh viên năm 2 ngành Công nghệ Thông tin tại Đại học Nha Trang <br/>
+  🎓 Sinh viên năm 2 ngành Công nghệ Thông tin tại trường Đại học Nha Trang <br/>
 </p>
 
 ---
