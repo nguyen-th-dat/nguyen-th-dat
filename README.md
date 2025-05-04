@@ -1,21 +1,41 @@
-<h1 align="center">👋 Xin chào, mình là Nguyễn Thành Đạt</h1>
+<h1 align="center">👋 Hello! I'm Nguyễn Thành Đạt</h1>
 
 <p align="center">
-  🎓 Sinh viên năm 2 ngành Công nghệ Thông tin tại trường Đại học Nha Trang <br/>
+  🎓 I'm a second-year Information Technology student. <br/>
 </p>
 
 ---
 
-## 📊 Thống kê GitHub
+##  My GitHub statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen-th-dat&theme=tokyonight" />
-</p>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=nguyen-th-dat&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+<p>
 
 ---
 
-## 📫 Liên hệ
+## Contact
 
 - 📧 Gmail: `itntdse@gmail.com` 
 - 💬 Telegram: [@ntd05](https://t.me/ntd05)
@@ -25,3 +45,4 @@
 ---
 
 > 💬 *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."* — Jim Rohn
+
