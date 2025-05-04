@@ -2,14 +2,12 @@
 
 ---
 
-
 ## 📊 Thống kê GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=tokyonight&hide_title=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen-th-dat&theme=tokyonight" />
 </p>
-
 
 ---
 
@@ -18,7 +16,6 @@
 - 📧 Gmail: `itntdse@gmail.com` 
 - 💬 Telegram: [@ntd05](https://t.me/ntd05)
 - 🌐 Facebook: [iamdat.05](https://facebook.com/iamdat.05)
-
 
 ---
 
