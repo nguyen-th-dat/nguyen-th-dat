@@ -19,7 +19,7 @@
 
 ##  My GitHub statistics
 
-<p align="center">
+<!-- <p align="center">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=onedark"
@@ -30,8 +30,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true" />
-</picture>
-<picture>
+</picture> -->
+<!-- <picture>
   <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=nguyen-th-dat&theme=onedark"
     media="(prefers-color-scheme: dark)"
@@ -40,9 +40,18 @@
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=nguyen-th-dat"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true" />
-</picture>
-<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat " />
+</picture> -->
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyen-th-dat&theme=onedark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyen-th-dat&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+
+
+
 
 
 ---
