@@ -11,7 +11,7 @@
 ##  My GitHub statistics
 
 
-<p align="center">
+<!-- <p align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=onedark"
@@ -23,15 +23,22 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true" />
 </picture>
-<p/>
+<p/> -->
 
-<p align="center">
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nguyen-th-dat/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nguyen-th-dat/github-readme-stats#gh-light-mode-only)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nguyen-th-dat&theme=onedark&card_width=500&card_height=200)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nguyen-th-dat&card_width=500&card_height=200#gh-light-mode-only)](https://git.io/streak-stats)
+
+<!-- <p align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nguyen-th-dat&theme=onedark" />
     <img src="https://streak-stats.demolab.com?user=nguyen-th-dat&theme=default" />
 </picture>
 
-<p/>
+<p/> -->
 
 ---
 
