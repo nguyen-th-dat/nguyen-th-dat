@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 My GitHub Statistics
+## My GitHub Statistics
 
 
 <p align="center">
@@ -43,11 +43,9 @@
 
 ---
 
-
-> 💬 *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."* — Jim Rohn
+> *"If you really want to do something, you'll find a way. If you don't, you'll find an excuse."* — Jim Rohn
 
 ---
-
 
 <p align="center">
   ⭐️ From <a href="https://github.com/nguyen-th-dat">nguyen-th-dat</a> with ❤️
