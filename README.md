@@ -29,13 +29,14 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true" />
 </picture>
-<p/>
+</p>
+
 
 
 <p align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nguyen-th-dat&theme=onedark" />
-    <img src="https://streak-stats.demolab.com?user=nguyen-th-dat&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=nguyen-th-dat&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nguyen-th-dat&theme=default" />
 </picture>
 
 <p/>
