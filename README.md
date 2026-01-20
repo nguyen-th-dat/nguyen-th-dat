@@ -41,7 +41,6 @@
 
 <p/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyen-th-dat&theme=dark)](https://git.io/streak-stats)
 ---
 
 
