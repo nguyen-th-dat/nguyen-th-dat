@@ -1,9 +1,16 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=I'm+Nguyen+Thanh+Đat" alt="Typing SVG" />
+  <a href="https://github.com/nguyen-th-dat">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=I'm+Nguyen+Thanh+Đat" alt="Typing SVG" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello,+World!" alt="Typing SVG" />
+  <a href="https://github.com/nguyen-th-dat">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello,+World!" alt="Typing SVG" />
+  </a>
 </p>
+
 ---
 
 ## GitHub Statistics
