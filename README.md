@@ -7,8 +7,9 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=nguyen-th-dat&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nguyen-th-dat&hide_border=&border_radius=5&short_numbers=&date_format=%5BY.%5Dn.j&card_width=500&card_height=200&type=png" alt="GitHub Streak" /></a>
 </p>
+
 
 ## Contact
 
