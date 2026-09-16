@@ -11,33 +11,12 @@
   </a>
 </p>
 
----
 
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyen-th-dat&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=nguyen-th-dat&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" />
 </p>
-
----
-
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyen-th-dat&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## Skills 
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,java" /> </p>
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" /> </p>
-
----
 
 ## Contact
 
