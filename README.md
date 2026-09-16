@@ -24,3 +24,9 @@
 </svg> GitHub:  <a href="https://github.com/nguyen-th-dat">github.com/nguyen-th-dat</a>
 
 </p>
+
+<p>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telegram" viewBox="0 0 16 16"> <path d="M16 3.2 13.7 14c-.2.8-.7 1-1.4.6l-3.8-2.8-1.8 1.7c-.2.2-.3.3-.6.3l.1-3.9 7.1-6.4c.3-.3-.1-.5-.5-.2L4 8.7.3 7.5c-.8-.3-.8-.8.2-1.1L15 2.1c.7-.3 1.3.2 1 1.1z"/> </svg> Telegram: <a href="https://t.me/iamdat05">t.me/@iamdat05</a>
+
+</p>
