@@ -1,6 +1,6 @@
 Hello there!
 
-I'm Nguyen Thanh Dat. I enjoy building web applications, exploring new technologies, and learning something new every day.
+I'm Nguyen Thanh Dat.
 
 ## Contact
 
